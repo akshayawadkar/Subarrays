@@ -2,7 +2,7 @@ package leetcode.subarray;
 
 import java.util.*;
 
-class _9_SubarraySumDivByK {
+class _9_SubarraySumDivByK_974 {
     public int subarraysDivByK(int[] A, int K) {
      
         Map<Integer, Integer> map = new HashMap<>();
